@@ -1,0 +1,21 @@
+{
+  "username": "churaka_bot",
+  "avatar_url": "https://cdn.discordapp.com/attachments/704835004240363622/778625909111390258/image0.jpg",
+  "embeds": [
+    {
+      "author": {
+        "name": "@churaka_posting",
+        "url": "https://www.instagram.com/churaka_posting/",
+        "icon_url": "https://cdn.discordapp.com/attachments/704835004240363622/778625909111390258/image0.jpg"
+      },
+      "title": "{{Caption}}",
+      "url": "{{Permalink}}",
+      "image": {
+        "url": "{{Media URL}}"
+      },
+      "footer": {
+        "text": "Diseñado por el admin vegano kl",
+      }
+    }
+  ]
+}
